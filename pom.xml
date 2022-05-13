@@ -4,6 +4,7 @@
 	<groupId>MainProject</groupId>
 	<artifactId>MainProject</artifactId>
 	<version>1.0</version>
+     //this is our demo class
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
